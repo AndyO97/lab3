@@ -18,6 +18,12 @@
   display: none;
 }
 
+li:hover{
+  background-color: #9999999;
+  color : blue;
+  cursor: pointer;
+}
+
 .rightSide{
   margin: 0;
   display: none;
